@@ -24,4 +24,6 @@ As well as the following decentralised exchanges right out of the box:
 - Pancakeswap V3
 - Pancakeswap V2
 
-Keep in mind that this version does not make any trades. The complete, and expanded version is currently used privately. For more information join the [Discord Server](https://discord.gg/VxAGcGqrg5)
+## Contact
+
+If you need help or any question, ask here:  [Telegram](https://t.me/shiny0103)  [Twitter](https://x.com/0xTan1319)
